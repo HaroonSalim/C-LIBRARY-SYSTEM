@@ -10,6 +10,10 @@ Just download this file named as "file.cpp" and run it in a C++ compiler.
 You can download a C++ compiler by [clicking here](https://sourceforge.net/projects/orwelldevcpp/). <br>
 You can also use an online C++ compiler by [clicking here](https://www.onlinegdb.com/online_c++_compiler).
 
+# Contact Information
+For any inquiries or feedback, don't hesitate to get in touch with me:  
+Haroon Salim [Github](https://github.com/HaroonSalim)  
+Email: [haroonsalim2003@hotmail.com](mailto:haroonsalim2003@hotmail.com)
 
 
 
